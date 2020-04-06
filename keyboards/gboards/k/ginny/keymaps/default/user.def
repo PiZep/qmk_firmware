@@ -13,7 +13,7 @@
  * Also note, All Combos _must_ be done through Command Mode! If you
  * use a combo enough add it to your dictionary in the USR section!
  *
- * Two 'layers' are avalible, CMD and USR. Just add these into a chord. 
+ * Two 'layers' are available, CMD and USR. Just add these into a chord. 
  * You'll enter/exit these layers with SET_STICKY(CMD) and SET_STICKY(0)
  *
  * Note: The engine optimizes for the longest chord it can find, every
@@ -24,7 +24,7 @@
 
 // You can use the following aliases in your chords
 // AA, AS, AE, AT, AN, AI, AO, AP, AL, AR (Left/Right thumb)
-// NUM, USR and CMD are also avalible
+// NUM, USR and CMD are also available
 
 // User defs
 SUBS(USR | AA,											undef1, "undefined User ")
