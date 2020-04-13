@@ -1,0 +1,7 @@
+// Gergoplex combos on NUMB layout
+
+COMB(l6Home,      KC_HOME,          KC_LEFT, KC_P6)
+COMB(d7PageDown,  KC_PGDN,          KC_DOWN, KC_P7)
+COMB(u8PageUp,    KC_PGUP,          KC_UP, KC_P8)
+COMB(r9End,       KC_END,           KC_RIGHT, KC_P9)
+
