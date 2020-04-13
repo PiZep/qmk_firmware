@@ -10,6 +10,7 @@ Three combos files used:
 * `pizep-azerty-vim-helpers.def`: readapted `germ-vim-helpers.def` for azerty
   layout.
 
-## Notes about numbers
-Numpad number are used to add combos on the number layout, as numbers are
-shifted characters.
+## Note about numbers
+Numpad numbers are used to add combos on the number layout, as numbers are
+shifted characters in azerty. Hence num lock is always turned on, based on
+drashna's answer in [#2164](https://github.com/qmk/qmk_firmware/issues/2164)
